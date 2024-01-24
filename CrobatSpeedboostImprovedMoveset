@@ -25,10 +25,11 @@
 :SPECIAL_DEFENSE=>0, :SPEED=>252}, "hiddenPowerType"=>nil, "glitter"=>nil, "obtain_method"=>0, "obtain_map"=>734,
 "obtain_level"=>100, "obtain_text"=>nil, "hatched_map"=>0, "timeReceived"=>1061162607, "timeEggHatched"=>nil,
 "fused"=>nil, "personalID"=>2346173316, "hp"=>321, "totalhp"=>321,
-"first_moves"=>[:HAZE, :VENOSHOCK, :AIRSLASH, :QUICKGUARD], "owner"=>{"id"=>1439941308, "name"=>"Ryan",
+"first_moves"=>[:HAZE, :VENOSHOCK, :AIRSLASH, :QUICKGUARD], "owner"=>{"id"=>1434441308, "name"=>"Batman",
 "gender"=>0, "language"=>2}, "head_shiny"=>false, "body_shiny"=>false, "head_shinyhue"=>146, "body_shinyhue"=>-129,
 "head_shinyr"=>1, "body_shinyr"=>0, "head_shinyg"=>2, "body_shinyg"=>17, "head_shinyb"=>1, "body_shinyb"=>3,
 "head_shinykrs"=>[47, 0, 0, 2, 3, 0, 1, 0, 1], "body_shinykrs"=>[0, 0, 0, 0, 0, 0, 0, 1, 0], "kuray_no_evo"=>0,
 "ribbons"=>[], "spriteform_body"=>nil, "spriteform_head"=>nil, "half_specie"=>{"type1"=>:POISON, "type2"=>:FLYING},
 "moves"=>[{"id"=>:CLOSECOMBAT, "pp"=>8, "ppup"=>3}, {"id"=>:BRAVEBIRD, "pp"=>24, "ppup"=>3},
 {"id"=>:BANEFULBUNKER, "pp"=>16, "ppup"=>3}, {"id"=>:POISONJAB, "pp"=>32, "ppup"=>3}]}
+
